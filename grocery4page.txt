@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>KannanStore Grocery.com</title>
+<link rel="icon" href="C:\Users\admin\Pictures\Camera Roll\images grocery.png" type="image/png"/>
+</head>
+<body>
+<h2>Groceries</h2>
+<h3>Daily Staples</h3>
+<img src="C:\Users\admin\Pictures\Camera Roll\dairy.jpg" width="10" height="150"/>
+<button type="prev"><a href="file:///C:/Users/admin/Desktop/FullPractice/grocery3page.html"></a></button>
+</body>
+</html>

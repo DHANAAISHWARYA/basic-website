@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>KannanStore Grocery.com</title>
+<link rel="icon" href="C:\Users\admin\Pictures\Camera Roll\images grocery.png" type="image/png"/>
+</head>
+<body>
+<center><h1>Kannan Stores Entrance</h1></center>
+<center><img src="C:\Users\admin\Pictures\Camera Roll\entrance.jpg" width="1250" height="500"/></center>
+<br>
+<p>
+<i>
+With over 15 years of experience, established grocery businesses offer high-quality products, from fresh produce to packaged goods. Their strong reputation is built on customer trust, excellent service, and reliable sourcing. They adapt to market trends, providing convenience through online shopping and loyalty programs. These businesses play an active role in sustainability and community involvement, ensuring long-term success.
+</i>
+</p>
+<p>
+<i>Product Quality</i><br>
+<img src="C:\Users\admin\Pictures\Camera Roll\review.jpg" width="100" height="50"/><br>
+<i>Customer Sastisfaction</i>
+<img src="C:\Users\admin\Pictures\Camera Roll\review.jpg" width="100" height="50"/><br>
+</p>
+</body>
+</html>
